@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -ne 2 ]; then
-    echo "Debes proporcionar exactamente dos números como parámetros."
+    echo "Por favor, introduzca dos números."
     exit 1
 fi
 
